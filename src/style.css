@@ -1,0 +1,8 @@
+div {
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+}
+select {
+  border-radius: 100px;
+}
